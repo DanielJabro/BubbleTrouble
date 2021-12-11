@@ -1,0 +1,5 @@
+Anhre,1000
+bob,500
+bob,500
+work,300
+billy,300
